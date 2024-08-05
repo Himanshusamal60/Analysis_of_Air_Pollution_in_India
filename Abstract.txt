@@ -1,6 +1,0 @@
-Abstract
-
-This project focuses on developing a machine learning model to predict important factors effecting air pollution levels across Indian states, leveraging a comprehensive dataset spanning from 2010 to 2023 and covering 453 cities. The data, sourced from the Central Control Room for Air Quality Management, ensures reliability and provides a robust foundation for analysis. We employ PySpark for efficient Extract, Transform, and Load (ETL) processes, enabling scalable data handling and processing. Advanced machine learning techniques are then applied to uncover trends and patterns in air pollution, assess the effectiveness of pollution control measures, and generate actionable insights. These insights, visualized using Tableau, aim to support policymakers and researchers in formulating strategies to enhance air quality and public health in India. 
-
-This project addresses a critical need for precise and reliable air pollution forecasting, providing valuable tools to tackle environmental challenges in the country.
-
